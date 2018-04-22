@@ -154,6 +154,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 	ro.allow.mock.location=0 \
 	ro.debuggable=1 \
 	persist.service.acm.enable=0 \
+	camera.disable_zsl_mode=1 \
 	ro.config.low_ram=false
 
 ADDITIONAL_DEFAULT_PROPERTIES += ro.adb.secure=0

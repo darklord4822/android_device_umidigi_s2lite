@@ -1,7 +1,7 @@
 Device Tree for Umidigi S2 Lite
 ===========================================
 
-The Moto E4 (codenamed _"s2lite"_) is a mid-range smartphone from Umidigi.
+The Umidigi S2 Lite (codenamed _"s2lite"_) is a mid-range smartphone from Umidigi.
 
 Basic   | Spec Sheet
 -------:|:-------------------------
